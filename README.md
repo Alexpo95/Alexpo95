@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Alexpo95
+- 👋 Hi, I’m Alex
 - I’m currently learning Python
 
