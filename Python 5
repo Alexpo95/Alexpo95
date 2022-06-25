@@ -1,0 +1,12 @@
+Nombre = "Alejandro"
+Apellidos = "Pozo Peris"
+Edad = "26"
+Email = "alejandropo@gmail.com "
+Telefono = "681055633"
+Casado = False
+Con_hijos = False
+Lista_de_amigos = ("oscar", "pablo", "arturo")
+Peliculas = {
+    "pelicula1" : "StarWars",
+    "pelicula2" : "La gran apuesta",
+    "pelicula3" : "Harry Potter"     }
