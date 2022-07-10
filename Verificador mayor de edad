@@ -1,0 +1,9 @@
+print("Buenos días, para entrar a la discoteca tiene que ser mayor de edad, indiquenos su fecha de nacimiento")
+
+edad = int(input("Por favor, ingrese su año de nacimiento "))
+
+if edad<2004:
+    print("Gracias, puedes pasar")
+
+else:
+    print("Eres menor de edad, no puedes pasar")
