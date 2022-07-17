@@ -1,0 +1,5 @@
+
+x = range(101)
+
+for i in reversed(x):
+    print(i)
