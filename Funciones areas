@@ -1,0 +1,20 @@
+from cmath import pi
+
+
+def triangle_area(base,height):
+ 
+
+    print((base*height)/2)
+
+
+
+triangle_area(3,2)
+
+def circle_area(r):
+ 
+
+    print((r**2)*pi)
+
+
+
+circle_area(4) 
